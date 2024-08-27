@@ -1,3 +1,5 @@
 fun main() {
-    println("Hello World!")
+
+    var card = Card()
+    println(card.cardInfo())
 }
